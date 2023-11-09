@@ -21,7 +21,7 @@ Here is a list of the script arguments:
     --output_format: Output format. Can be csv, npy or both (default: csv)
 
 
-## Generating a datasets based on a causal graph.
+## Generating a dataset based on a causal graph.
 
 The script in `tools/gen_data.py` generates a set of `num_points` data points based on a graph previously produced with `tools/gen_graph.py` and located in `input_dir`.
 
