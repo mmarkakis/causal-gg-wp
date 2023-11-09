@@ -1,5 +1,5 @@
 # causal-gg-wp
-A small tool for causal Graph Generation where Weights are Probabilistic.
+A small set of tools for causal Graph Generation where Weights are Probabilistic.
 
 
 ## Generating a causal graph.
