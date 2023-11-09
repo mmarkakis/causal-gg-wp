@@ -1,0 +1,9 @@
+{
+    "n": 5,
+    "p": 0.5,
+    "min_weight_value": -10,
+    "max_weight_value": 10,
+    "min_noise_radius": 0.001,
+    "max_noise_radius": 0.1,
+    "output_format": "csv"
+}
